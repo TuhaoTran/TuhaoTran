@@ -1,6 +1,6 @@
-👋 Hi, I’m Annie Tran
+👋 Hi, I’m Annie - 24 years old
 
-I'm student working at Publicis by Prodigious.
+I'm student working at Supermood | ex-Publicis group 
 
 - 👀 I’m interested in animation - design - coding -> to be a creative
 - 🌱 I’m currently learning Framework React - animation / design 
