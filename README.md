@@ -4,7 +4,7 @@ I'm student working at Supermood | ex-Publicis group
 
 - 👀 I’m interested in animation - design - coding -> to be a creative
 - 🌱 I’m currently learning Framework React - animation / design 
-- 📫 How to reach me : Just send me an email annietth.pro@gmail.com
+- 📫 How to reach me : loading
 
 <!---
 TuhaoTran/TuhaoTran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
